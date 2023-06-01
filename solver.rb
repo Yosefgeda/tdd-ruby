@@ -1,8 +1,7 @@
 class Solver
   def factorial(int)
-    return 1 if int == 1
-
-
+    raise ArgumentError, "Factorial is undefined for negative integers" if int < 0
+    return 1 if int == 0 || int == 1
     int * factorial(int - 1)
   end
 

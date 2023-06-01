@@ -91,7 +91,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 <ul>
     <li><a href="https://code.visualstudio.com/">Vscode</a></li>
-    <li><a href="#!">Node js</a></li>
+    <li><a href="https://nodejs.org/en/download">Node js</a></li>
   </ul>
 
 <!--
